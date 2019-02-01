@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Master's Student at Northeastern University. Building exciting things. Stay tuned!!
+Hi, my name is Pratik Mahajan. I am a Software Developer building exciting things. Currently a Master's Student at Northeastern University. Stay tuned!!
 
 
-[jekyll-organization]: https://github.com/jekyll
