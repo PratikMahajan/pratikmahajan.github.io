@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphs and Topological Sory"
+title:  "Graphs and Topological Sort"
 date:   2019-03-26 17:08:49 -0800
 categories: Graphs
 ---
