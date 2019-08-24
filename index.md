@@ -5,4 +5,5 @@
 layout: page
 ---
 
-Hello and welcome to Pratik's portfolio
+Hi, my name is Pratik Mahajan. I am a Software Developer building exciting things. Currently a Master's Student at Northeastern University. Stay tuned!!
+
