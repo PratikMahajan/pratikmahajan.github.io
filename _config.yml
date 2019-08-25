@@ -22,7 +22,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n/a
 github_username:  pratikmahajan
 
+# to show short discription below blog heading
 show_excerpts: true
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # Adding social links below 
+  linkedin: mahajanpratik
+
+
+header_pages:
+  - portfolio.md
+  - resume.md
+  - medium.md
+  - contact.md
+
 
 # Build settings
 markdown: kramdown
@@ -30,6 +45,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
