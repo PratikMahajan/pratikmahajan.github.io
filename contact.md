@@ -7,4 +7,5 @@ title: Contact
 permalink: "/contact/"
 ---
 
-
+"https://www.linkedin.com/in/pratikmahajan" 
+![](/assets/minima-social-icons.svg#linkedin)
