@@ -33,7 +33,7 @@ minima:
 
 
 header_pages:
-  - portfolio.md
+  - projects.md
   - resume.md
   - medium.md
   - contact.md
