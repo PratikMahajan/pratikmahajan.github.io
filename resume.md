@@ -8,10 +8,9 @@ permalink: "/resume/"
 ---
 
 
-**EDUCATION**
-
-**Northeastern University** , Boston, MA  (Expected) December 2019 <br/>
-_**Master of Science in Information Systems**_  ** GPA: 3.81**<br/>
+**EDUCATION**<br/>
+**Northeastern University** , Boston, MA  &emsp;&emsp;&emsp;  (Expected) December 2019 <br/>
+_**Master of Science in Information Systems**_  &emsp;&emsp;**GPA: 3.81**<br/>
 Relevant Coursework: Advance Data Science, Database Management and Database Design, Program Structures and Algorithms, iOS App Development, Network Structures and Cloud Computing
 
 **Sardar Patel Institute of Technology** , Mumbai, India    June 2017<br/>
@@ -23,8 +22,7 @@ Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent S
 **Database** :           MySQL, MongoDB, Blockchain<br/>
 **Tools** :              Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, nginx, Jupyter, NLTK, Sklearn, Scipy, Pandas
 
-**EXPERIENCE**
-
+**EXPERIENCE**<br/>
 _**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - Present
 
 - Designed and Developed backend for Serverless Registry App hub for kscout.io using GoLang and Docker
@@ -47,8 +45,7 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 - Discovered a critical security loophole at Barclays and presented it to the CEO, Barclays India saving millions of dollars in federal fines and developed a patch to rectify and strengthen the security of the internal network
 - Oversaw CSR event at Barclays in teaching English to underprivileged children
 
-**OPEN SOURCE PROJECTS**
-
+**OPEN SOURCE PROJECTS**<br/>
 **Serverless Twitter Video Downloader** ([https://praa.tk/sless](https://praa.tk/sless))      June 2019
 
 - Created a Knative Eventing and Serving app which replies with the video download link when mentioned
@@ -74,8 +71,7 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 
 - Developed alternative remittance system based on blockchain with minimum transaction cost, which proved to be 80% more time efficient and 60% more cost efficient than the existing remittance system
 
-**ACHIEVEMENTS**
-
+**ACHIEVEMENTS**<br/>
 - **Publication:** Published and presented a technical paper titled &quot;Blockchain-based remittances and mining using CUDA&quot; at 2017 IEEE International Conference on Smart Technologies for Smart Nation
 - **Seed Funding:** Built a system for &#39;Smart Transport&#39; and received funding by Innovation &amp; Entrepreneurship Development Center. Application for patent in progress for the same.
 - Active contributor to open source projects on Github and advocate of open source software.
