@@ -46,10 +46,10 @@ _**Bachelor of Engineering in Information Technology**_<br/>
 Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent Systems, Image Processing
 
 ## TECHNICAL SKILLS
-**Languages**<br/>        
+**Languages**<br/>
 Python, Java, Go, Bash, C, Swift
 
-**Database**<br/>           
+**Database**<br/>
 MySQL, MongoDB, Blockchain
 
 **Tools**<br/>
