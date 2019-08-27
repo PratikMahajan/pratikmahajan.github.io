@@ -7,21 +7,6 @@ title: Resume
 permalink: "/resume/"
 ---
 
-
-**EDUCATION**<br/>
-**Northeastern University** , Boston, MA,  (Expected) December 2019 <br/>
-_**Master of Science in Information Systems**_ , GPA: 3.81**<br/>
-Relevant Coursework: Advance Data Science, Database Management and Database Design, Program Structures and Algorithms, iOS App Development, Network Structures and Cloud Computing
-
-**Sardar Patel Institute of Technology** , Mumbai, India    June 2017<br/>
-_**Bachelor of Engineering in Information Technology**_<br/>
-Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent Systems, Image Processing
-
-**TECHNICAL SKILLS**<br/>
-**Languages** :          Python, Java, Go, Bash, C, Swift<br/>
-**Database** :           MySQL, MongoDB, Blockchain<br/>
-**Tools** :              Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, nginx, Jupyter, NLTK, Sklearn, Scipy, Pandas
-
 **EXPERIENCE**<br/>
 _**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - Present
 
@@ -50,3 +35,17 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 - **Seed Funding:** Built a system for &#39;Smart Transport&#39; and received funding by Innovation &amp; Entrepreneurship Development Center. Application for patent in progress for the same.
 - Active contributor to open source projects on Github and advocate of open source software.
 - Stood among the top 5 out of 25 teams in National Stock Exchange (NSE) Blockchain Hackathon (2016)
+
+**EDUCATION**<br/>
+**Northeastern University** , Boston, MA,  (Expected) December 2019 <br/>
+_**Master of Science in Information Systems**_ , GPA: 3.81**<br/>
+Relevant Coursework: Advance Data Science, Database Management and Database Design, Program Structures and Algorithms, iOS App Development, Network Structures and Cloud Computing
+
+**Sardar Patel Institute of Technology** , Mumbai, India    June 2017<br/>
+_**Bachelor of Engineering in Information Technology**_<br/>
+Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent Systems, Image Processing
+
+**TECHNICAL SKILLS**<br/>
+**Languages** :          Python, Java, Go, Bash, C, Swift<br/>
+**Database** :           MySQL, MongoDB, Blockchain<br/>
+**Tools** :              Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, nginx, Jupyter, NLTK, Sklearn, Scipy, Pandas
