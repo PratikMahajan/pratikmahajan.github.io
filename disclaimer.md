@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Contact
-permalink: "/contact/"
+title: Disclaimer
+permalink: "/disclaimer/"
 ---
 
+Opinions expressed are solely my own and do not express the views or opinions of my employer.
