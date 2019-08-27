@@ -49,28 +49,28 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 
 **OPEN SOURCE PROJECTS**
 
-**Serverless Twitter Video Downloader** ([https://praa.tk/sless](https://praa.tk/sless))                                                                                     June 2019
+**Serverless Twitter Video Downloader** ([https://praa.tk/sless](https://praa.tk/sless))      June 2019
 
 - Created a Knative Eventing and Serving app which replies with the video download link when mentioned
 - Deployed on Openshift and wrote automated deployment script to deploy on any Kubernetes cluster
 
-**Cloud Based Cryptocurrency Trading (**[https://praa.tk/crypto](https://praa.tk/crypto)) **                                             ** October 2018– December 2018
+**Cloud Based Cryptocurrency Trading** ([https://praa.tk/crypto](https://praa.tk/crypto)) October 2018– December 2018
 
 - Designed and implemented Dynamic Pricing Algorithm to price coins according to market sentiments and demand-supply using Twitter API and NLTK and implemented algorithm to match different buy-sell transactions
 - Developed End-to-End application using iOS, RESTful APIs, Docker and Kubernetes
 - Implemented instant profile verification using Swift, iOS, Java, Python flask, SQLite and AWS S3
 
-**Music Style Transfer and generation using CNN (**[https://praa.tk/music](https://praa.tk/music))                                        June 2018 – August 2018
+**Music Style Transfer and generation using CNN** ([https://praa.tk/music](https://praa.tk/music))     June 2018 – August 2018
 
 - Implemented Convolutional Neural Network architecture to transfer a music style from one song to another
 - _Technologies used_: TensorFlow, Python, Librosa, Numpy
 
-**Twitter Machine Learning Database &amp; Analysis** ([https://praa.tk/tmldb](https://praa.tk/tmldb)) **                 **                      March 2018 – April 2018
+**Twitter Machine Learning Database &amp; Analysis** ([https://praa.tk/tmldb](https://praa.tk/tmldb))    March 2018 – April 2018
 
 - Scraped Twitter to extract tweets related to Machine Learning and analyzed it for insights and trends
 - Converted SQL database into a noSQL documented-oriented database (MongoDb) using python scripts
 
-**Blockchain Remittances                                                                                                                ** September 2016 – May 2017
+**Blockchain Remittances** September 2016 – May 2017
 
 - Developed alternative remittance system based on blockchain with minimum transaction cost, which proved to be 80% more time efficient and 60% more cost efficient than the existing remittance system
 
