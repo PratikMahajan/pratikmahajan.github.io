@@ -7,7 +7,7 @@ title: Resume
 permalink: "/resume/"
 ---
 
-##EXPERIENCE
+## EXPERIENCE
 _**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - Present
 
 - Designed and Developed backend for Serverless Registry App hub for kscout.io using GoLang and Docker
@@ -30,13 +30,13 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 - Discovered a critical security loophole at Barclays and presented it to the CEO, Barclays India saving millions of dollars in federal fines and developed a patch to rectify and strengthen the security of the internal network
 - Oversaw CSR event at Barclays in teaching English to underprivileged children
 
-##ACHIEVEMENTS
+## ACHIEVEMENTS
 - **Publication:** Published and presented a technical paper titled &quot;Blockchain-based remittances and mining using CUDA&quot; at 2017 IEEE International Conference on Smart Technologies for Smart Nation
 - **Seed Funding:** Built a system for &#39;Smart Transport&#39; and received funding by Innovation &amp; Entrepreneurship Development Center. Application for patent in progress for the same.
 - Active contributor to open source projects on Github and advocate of open source software.
 - Stood among the top 5 out of 25 teams in National Stock Exchange (NSE) Blockchain Hackathon (2016)
 
-##EDUCATION
+## EDUCATION
 **Northeastern University** , Boston, MA,  (Expected) December 2019 <br/>
 _**Master of Science in Information Systems**_ , GPA: 3.81**<br/>
 Relevant Coursework: Advance Data Science, Database Management and Database Design, Program Structures and Algorithms, iOS App Development, Network Structures and Cloud Computing
@@ -45,7 +45,7 @@ Relevant Coursework: Advance Data Science, Database Management and Database Desi
 _**Bachelor of Engineering in Information Technology**_<br/>
 Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent Systems, Image Processing
 
-##TECHNICAL SKILLS
+## TECHNICAL SKILLS
 **Languages**<br/>        
 Python, Java, Go, Bash, C, Swift
 
