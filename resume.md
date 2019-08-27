@@ -50,7 +50,10 @@ Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent S
 Python, Java, Go, Bash, C, Swift
 
 **Database**<br/>
-MySQL, MongoDB, Blockchain
+MySQL, MongoDB, Blockchain, sqlite
+
+**Web Servers**
+Nginx, Caddy
 
 **Tools**<br/>
-Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, nginx, Jupyter, NLTK, Sklearn, Scipy, Pandas
+Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, Jupyter, NLTK, Sklearn, Scipy, Pandas
