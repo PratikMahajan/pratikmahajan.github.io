@@ -7,11 +7,11 @@ title: Contact
 permalink: "/contact/"
 ---
 
-Github: pratikmahajan
+Github: [pratikmahajan](https://github.com/PratikMahajan)
 
-Keybase: mahajan
+Keybase: [mahajan](https://keybase.io/mahajan)
 
-Linkedin: mahajanpratik 
+Linkedin: [mahajanpratik](https://www.linkedin.com/in/mahajanpratik/) 
 
 Email: {pratik}AT{mahajan}DOT{xyz}
 
