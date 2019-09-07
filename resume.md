@@ -31,14 +31,18 @@ _**Intern Analyst**_, **Barclays** June 2016 – July 2016
 - Oversaw CSR event at Barclays in teaching English to underprivileged children
 
 ## ACHIEVEMENTS
-- **Publication:** Published and presented a technical paper titled &quot;Blockchain-based remittances and mining using CUDA&quot; at 2017 IEEE International Conference on Smart Technologies for Smart Nation
 - **Seed Funding:** Built a system for &#39;Smart Transport&#39; and received funding by Innovation &amp; Entrepreneurship Development Center. Application for patent in progress for the same.
 - Active contributor to open source projects on Github and advocate of open source software.
 - Stood among the top 5 out of 25 teams in National Stock Exchange (NSE) Blockchain Hackathon (2016)
 
+## PUBLICATIONS
+[**Blockchain-based remittances using CUDA**](https://ieeexplore.ieee.org/document/8358503)
+
+- Published and Presented a technical paper on implementation of Blockchain for remittances at the 2017 International Conference on Smart Technologies for Smart Nation.
+
 ## EDUCATION
 **Northeastern University** , Boston, MA,  (Expected) December 2019 <br/>
-_**Master of Science in Information Systems**_ , GPA: 3.81**<br/>
+_**Master of Science in Information Systems**_ , **GPA: 3.81**<br/>
 Relevant Coursework: Advance Data Science, Database Management and Database Design, Program Structures and Algorithms, iOS App Development, Network Structures and Cloud Computing
 
 **Sardar Patel Institute of Technology** , Mumbai, India    June 2017<br/>
@@ -52,7 +56,7 @@ Python, Java, Go, Bash, C, Swift
 **Database**<br/>
 MySQL, MongoDB, Blockchain, sqlite
 
-**Web Servers**
+**Web Servers**<br/>
 Nginx, Caddy
 
 **Tools**<br/>
