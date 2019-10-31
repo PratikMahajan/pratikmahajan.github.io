@@ -8,7 +8,7 @@ permalink: "/resume/"
 ---
 
 ## EXPERIENCE
-_**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - Present
+_**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - August 2019
 
 - Designed and Developed backend and virtual assistant for a serverless application marketplace for kubernetes reducing the barrier to entry for serverless technology
 - Engineered a continuous delivery system increasing development team’s speed enabling them to create more features
@@ -50,7 +50,7 @@ Relevant Coursework: Data Structures, Soft Computing, Data Mining, Intelligent S
 
 ## TECHNICAL SKILLS
 **Languages**<br/>
-Python, Java, Go, Bash, C, Swift
+Python, Java, Go, Shell, C, Swift
 
 **Database**<br/>
 MySQL, MongoDB, Blockchain, sqlite
