@@ -10,10 +10,9 @@ permalink: "/resume/"
 ## EXPERIENCE
 _**Openshift Engineering Intern**_,  **Red Hat** ([https://git.io/kscout](https://git.io/kscout))  May 2019 - Present
 
-- Designed and Developed backend for Serverless Registry App hub for kscout.io using GoLang and Docker
+- Designed and Developed backend and virtual assistant for a serverless application marketplace for kubernetes reducing the barrier to entry for serverless technology
+- Engineered a continuous delivery system increasing development team’s speed enabling them to create more features
 - Developed a user friendly one-line cli deployment script to deploy any serverless app on any Kubernetes cluster
-- Designed and Developed Virtual Assistant API for richer user experience on platform
-- Created automated deployment scripts using bash and helm to deploy backend and chatbot API on Kubernetes
 
 _**Co-Founder**_,  **AI Skunkworks** January 2019 - Present
 
@@ -60,4 +59,4 @@ MySQL, MongoDB, Blockchain, sqlite
 Nginx, Caddy
 
 **Tools**<br/>
-Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, Jupyter, NLTK, Sklearn, Scipy, Pandas
+Docker, Kubernetes, Openshift, Amazon web services (AWS), Google Cloud Platform (GCP), Git, Jupyter, NLTK, Sklearn, Scipy, Pandas, Terraform
