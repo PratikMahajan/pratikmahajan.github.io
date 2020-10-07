@@ -37,7 +37,7 @@ header_pages:
   - resume.md
   - medium.md
   - contact.md
-
+  - algorithms.md
 
 # Build settings
 markdown: kramdown
